@@ -1,1 +1,2 @@
-# newman-runner-gh-actions
+# Example newman runner with GitHub Actions
+
